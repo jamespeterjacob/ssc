@@ -1,0 +1,13 @@
+<svg version="1.1" viewBox="0 0 979 195" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:#469d9c;}.b{fill:#d0c65f;}</style>
+ </defs>
+ <title>logocampus</title>
+ <g fill="#ff3954" stroke-linejoin="bevel" stroke-width="14.052">
+  <rect x="15.695" y="106.13" width="75" height="75" opacity=".999" style="paint-order:markers stroke fill"/>
+  <rect x="127.7" y="106.13" width="75" height="75" opacity=".999" style="paint-order:markers stroke fill"/>
+  <rect x="73.752" y="9.5048" width="75" height="75" opacity=".999" style="paint-order:markers stroke fill"/>
+ </g>
+ <text x="205.39224" y="117.32275" font-family="'Bookshelf Symbol 7'" font-size="68.525px" stroke-width="1.7131" style="line-height:1.25" xml:space="preserve"><tspan x="205.39224" y="117.32275" font-family="Aharoni" font-size="164.46px" stroke-width="1.7131">SMART</tspan></text>
+ <text x="216.99048" y="190.4762" font-family="'Bookshelf Symbol 7'" font-size="96px" style="line-height:1.25" xml:space="preserve"><tspan x="216.99048" y="190.4762" font-family="'Baskerville Old Face'" font-size="96px">Scholars Club</tspan></text>
+</svg>
