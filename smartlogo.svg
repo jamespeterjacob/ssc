@@ -1,13 +1,117 @@
-<svg version="1.1" viewBox="0 0 979 195" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style>.a{fill:#469d9c;}.b{fill:#d0c65f;}</style>
- </defs>
- <title>logocampus</title>
- <g fill="#ff3954" stroke-linejoin="bevel" stroke-width="14.052">
-  <rect x="15.695" y="106.13" width="75" height="75" opacity=".999" style="paint-order:markers stroke fill"/>
-  <rect x="127.7" y="106.13" width="75" height="75" opacity=".999" style="paint-order:markers stroke fill"/>
-  <rect x="73.752" y="9.5048" width="75" height="75" opacity=".999" style="paint-order:markers stroke fill"/>
- </g>
- <text x="205.39224" y="117.32275" font-family="'Bookshelf Symbol 7'" font-size="68.525px" stroke-width="1.7131" style="line-height:1.25" xml:space="preserve"><tspan x="205.39224" y="117.32275" font-family="Aharoni" font-size="164.46px" stroke-width="1.7131">SMART</tspan></text>
- <text x="216.99048" y="190.4762" font-family="'Bookshelf Symbol 7'" font-size="96px" style="line-height:1.25" xml:space="preserve"><tspan x="216.99048" y="190.4762" font-family="'Baskerville Old Face'" font-size="96px">Scholars Club</tspan></text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="400"
+   width="979"
+   sodipodi:docname="smartlogo.svg"
+   id="svg24"
+   viewBox="0 0 979 400"
+   version="1.1">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logocampus</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg24"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="43.442813"
+     inkscape:cx="233.62467"
+     inkscape:zoom="0.41711355"
+     showgrid="false"
+     id="namedview26"
+     inkscape:window-height="746"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.a{fill:#469d9c;}.b{fill:#d0c65f;}</style>
+  </defs>
+  <title
+     id="title6">logocampus</title>
+  <g
+     id="g871">
+    <g
+       id="g861"
+       transform="translate(52.743431,2.3974287)">
+      <rect
+         x="-34.65102"
+         y="228.39886"
+         width="100"
+         height="100"
+         opacity="0.999"
+         style="fill:#ff3954;stroke-width:18.7361;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect8" />
+      <rect
+         x="106.12315"
+         y="226.00143"
+         width="100"
+         height="100"
+         opacity="0.999"
+         style="fill:#ff3954;stroke-width:18.7361;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect10" />
+      <rect
+         x="32.995708"
+         y="98.632812"
+         width="100"
+         height="100"
+         opacity="0.999"
+         style="fill:#ff3954;stroke-width:18.7361;stroke-linejoin:bevel;paint-order:markers stroke fill"
+         id="rect12" />
+    </g>
+    <text
+       x="223.09702"
+       y="214.34149"
+       font-family="'Bookshelf Symbol 7'"
+       font-size="93.1156px"
+       stroke-width="2.32785"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text18"
+       transform="scale(1.0065034,0.99353862)"><tspan
+         x="223.09702"
+         y="214.34149"
+         font-family="Aharoni"
+         font-size="223.477px"
+         stroke-width="2.32785"
+         id="tspan16">SMART</tspan></text>
+    <text
+       x="265.95123"
+       y="323.32956"
+       font-family="'Bookshelf Symbol 7'"
+       font-size="124.948px"
+       style="line-height:1.25;stroke-width:1.30155"
+       xml:space="preserve"
+       id="text22"><tspan
+         x="265.95123"
+         y="323.32956"
+         font-family="'Baskerville Old Face'"
+         font-size="124.948px"
+         id="tspan20"
+         style="stroke-width:1.83194">Scholars Club</tspan></text>
+  </g>
 </svg>
