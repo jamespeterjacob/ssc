@@ -5121,7 +5121,7 @@ a {
     .section.features {
         height: auto;
         padding: 220px 0px;
-        background-color: #dfdede;
+        background-color: #3c73b1;
     }
 
     .section.blog {
@@ -5729,7 +5729,7 @@ a {
     width: auto;
     margin-top: 0px;
     margin-bottom: 40px;
-    color: #000;
+    color: white;
     font-size: 70px;
     line-height: 1;
 }
