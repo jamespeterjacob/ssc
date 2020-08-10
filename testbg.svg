@@ -1,3 +1,5 @@
 <svg width="1980" height="200" version="1.1" viewBox="0 0 523.87 52.917" xmlns="http://www.w3.org/2000/svg">
  <rect y=".15119" width="523.35" height="52.917" fill="#ffcb06" opacity=".999" stroke-linejoin="bevel" stroke-width="4.724" style="paint-order:markers stroke fill"/>
+ <path d="m264.28 51.274a132.23 70 0 0 1-130.99 68.031 132.23 70 0 0 1-133.29-66.767" fill="#ffcb06" opacity=".999" style="paint-order:markers stroke fill"/>
+ <path transform="scale(1,-1)" d="m525.51-65.127a131.47 70 0 0 1-130.23 68.031 131.47 70 0 0 1-132.52-66.767" fill="#fff" opacity=".999" style="paint-order:markers stroke fill"/>
 </svg>
