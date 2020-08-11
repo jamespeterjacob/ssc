@@ -8781,7 +8781,7 @@ a {
 }
 
 .section--full-page {
-    height: 100%;
+    height: 100vh;
 }
 
 .slider-wrapper {
