@@ -26,6 +26,21 @@
             background-color: transparent;
         }
 
+        .hero-container {
+            position: relative;
+        }
+
+        /* Bottom right text */
+        .hero-text-block {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            background: rgba(255, 255, 255, 0.3);
+            color: black;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
 
         @media (min-width:992px) {
             html.w-mod-js:not(.w-mod-ix) [data-w-id="3c5c5daf-b8b5-c0bb-a399-8a50b75088b5"] {
@@ -212,10 +227,10 @@
 <body>
     <div id="navbar" data-collapse="none" data-animation="default" data-duration="400" role="banner" class="navbar w-nav" style="background-color:white">
         <div class="navbar-mobile">
-            <a data-w-id="c38d850e-4275-4770-14c9-058d7eeea602" href="" class="mobile-link w-inline-block">
+            <a data-w-id="c38d850e-4275-4770-14c9-058d7eeea602" href="https://jamespeterjacob.github.io/ssc/school.html" class="mobile-link w-inline-block">
                 <h1 data-w-id="005e55bd-df18-fc72-0ac4-8e1d6a56bde0" class="nav-link-mobile">School</h1>
             </a>
-            <a data-w-id="7efb6aab-f47c-3128-eafa-8eebad76ebd5" href="" class="mobile-link w-inline-block">
+            <a data-w-id="7efb6aab-f47c-3128-eafa-8eebad76ebd5" href="https://jamespeterjacob.github.io/ssc/login.html" class="mobile-link w-inline-block">
                 <h1 class="nav-link-mobile">Live Classes</h1>
             </a>
             <div data-delay="0" data-hover="1" data-w-id="b6b979c4-adda-2945-e046-74233e8f6339" class="dropdown-menu w-dropdown">
@@ -231,7 +246,7 @@
                     <a href="" class="menu__dropdown-link w-dropdown-link">Visual Arts Techniques</a>-->
                 </nav>
             </div>
-            <a data-w-id="bb598981-dec3-d6e3-0fea-7e124c069d52" href="" class="mobile-link w-inline-block">
+            <a data-w-id="bb598981-dec3-d6e3-0fea-7e124c069d52" href="https://jamespeterjacob.github.io/ssc/resources.html" class="mobile-link w-inline-block">
                 <h1 class="nav-link-mobile">Resources</h1>
             </a>
             <a data-w-id="e201e5dc-d3c8-b00e-30f3-f31947dec3c9" href="" class="mobile-link w-inline-block">
@@ -239,12 +254,12 @@
             </a>
         </div>
 
-        <a href="" aria-current="page" class="brand w-nav-brand w--current">
+        <a href="https://jamespeterjacob.github.io/ssc/index.html" aria-current="page" class="brand w-nav-brand w--current">
             <img src="https://jamespeterjacob.github.io/ssc/smartlogo.svg" width="100" alt="Smart Scholars Club" />
         </a>
 
         <div class="container-menu">
-            <a href="" class="link-nav w-nav-link">School</a>
+            <a href="https://jamespeterjacob.github.io/ssc/school.html" class="link-nav w-nav-link">School</a>
             <div data-delay="0" data-hover="1" data-w-id="a8c35eba-2d3e-5171-a67e-52cd964c1ab2" class="dropdown-menu w-dropdown">
                 <div class="dropdown-toggle w-dropdown-toggle">
                     <div class="w-icon-dropdown-toggle"></div>
@@ -259,8 +274,8 @@
                     <a href="" data-w-id="7601c14f-b508-43fb-13a8-de1e5739ab25" class="menu__dropdown-link w-dropdown-link">English for Corporates</a>-->
                 </nav>
             </div>
-            <a href="" class="link-nav w-nav-link">Live Classes</a>
-            <a href="" class="link-nav w-nav-link">Resources</a>
+            <a href="https://jamespeterjacob.github.io/ssc/login.html" class="link-nav w-nav-link">Live Classes</a>
+            <a href="https://jamespeterjacob.github.io/ssc/resources.html" class="link-nav w-nav-link">Resources</a>
             <a href="https://jamespeterjacob.github.io/ssc/contact.html" class="link-nav w-nav-link">Contact</a>
         </div>
 
@@ -274,7 +289,7 @@
         </div>
     </div>
 
-    <div class="hero-section" style="background-image: url(https://jamespeterjacob.github.io/ssc/contact.svg);background-size: cover;background-position: center;background-repeat: no-repeat">
+    <!--<div class="hero-section" style="background-image: url(https://jamespeterjacob.github.io/ssc/contact.svg);background-size: cover;background-position: center;background-repeat: no-repeat">
         <div class="container hero alto">
             <div class="wrap-text-hero">
                 <h2 data-w-id="5e399133-59cc-c29d-5256-4817bcd47d12" style="color:#ff3954ff" class="main-heading first hero">hello@campus.com</h2>
@@ -282,20 +297,40 @@
                 <p data-w-id="5e399133-59cc-c29d-5256-4817bcd47d16" style="" class="main-paragraph hero">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas felis felis, vulputate sit amet mauris et, semper aliquam ligula. Integer efficitur tellus metus, sed feugiat leo posuere ac.</p>
             </div>
 
-            <!--<div class="video-background">
+            <div class="video-background">
                 <div data-poster-url="https://assets.website-files.com/5e4275d5ba6aea81304932ce/5e466fe2f1271f4139144db0_video-FLLHD-poster-00001.jpg" data-video-urls="https://assets.website-files.com/5e5169331635de694bbb4c9d/5e5169331635de4097bb4cd2_video-FLLHD-transcode.mp4,https://assets.website-files.com/5e5169331635de694bbb4c9d/5e5169331635de4097bb4cd2_video-FLLHD-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="background-video w-background-video w-background-video-atom">
                     <video autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/5e4275d5ba6aea81304932ce/5e466fe2f1271f4139144db0_video-FLLHD-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="https://assets.website-files.com/5e5169331635de694bbb4c9d/5e5169331635de4097bb4cd2_video-FLLHD-transcode.mp4" data-wf-ignore="true" /><source src="https://assets.website-files.com/5e5169331635de694bbb4c9d/5e5169331635de4097bb4cd2_video-FLLHD-transcode.webm" data-wf-ignore="true" /></video>
                 </div>
-            </div>-->
+            </div>
+        </div>
+    </div>-->
+    <div class="hero-container" style="background-image: url(https://jamespeterjacob.github.io/ssc/kid3.svg);height: 100vh;background-size: cover;background-position: center;background-repeat: no-repeat">
+        <div class="hero-text-block wrap-text-hero">
+            <h2 data-w-id="5e399133-59cc-c29d-5256-4817bcd47d12" style="opacity:1;color:#ff3954ff" class="main-heading first hero">Get in touch</h2>
+            <div class="form-page-contact w-form" >
+                <form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="contact-form-page">
+                    <input type="text" class="name-field w-input" maxlength="256" name="name" data-name="Name" placeholder="Name" id="name" />
+                    <input type="email" class="email-field w-input" maxlength="256" name="email-3" data-name="Email 3" placeholder="Email" id="email-3" required="" />
+                    <textarea placeholder="Message..." maxlength="5000" id="field" name="field" class="textarea-field w-input"></textarea>
+                    <div class="button-form">
+                    <input type="submit" value="Submit" data-wait="Please wait..." class="contact-button w-button" style="color: #ff3954ff" />
+                    <div class="arrow-text" style="color: #ff3954ff">⇀</div></div>
+                </form>
+                <div class="success-message w-form-done">
+                    <div class="message">Thank you! Your submission has been received!</div>
+                </div>
+                <div class="error-state w-form-fail">
+                    <div class="message">Oops! Something went wrong while submitting the form.</div>
+                </div>
+            </div>
         </div>
     </div>
 
-    <div class="section contact-page">
+    <!--<div class="section contact-page">
         <div class="container bg contact">
             <div class="form-page-contact w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="contact-form-page"><input type="text" class="name-field w-input" maxlength="256" name="name" data-name="Name" placeholder="Name" id="name" /><input type="email" class="email-field w-input" maxlength="256" name="email-3" data-name="Email 3" placeholder="Email" id="email-3" required="" /><textarea placeholder="Message..." maxlength="5000" id="field" name="field" class="textarea-field w-input"></textarea><div class="button-form"><input type="submit" value="Submit" data-wait="Please wait..." class="contact-button w-button" /><div class="arrow-text">⇀</div></div></form><div class="success-message w-form-done"><div class="message">Thank you! Your submission has been received!</div></div><div class="error-state w-form-fail"><div class="message">Oops! Something went wrong while submitting the form.</div></div></div>
         </div>
-    </div>
-
+    </div>-->
     <!--<div class="section">
         <div class="w-layout-grid grid-contact-section">
             <div data-w-id="4e9508f4-39a6-2b71-fbc8-c6f5cb5f857a" class="courses-wrap">
